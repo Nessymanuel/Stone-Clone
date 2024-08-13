@@ -22,27 +22,27 @@ export function CTA() {
                     </div>
                 </div>
                 <div className='border-5  justify-between px-5'>
-                    <div className='flex'>
-                        <div className=' flex  flex-col  '>
-                            <div className='bg-zinc-200 px-12 my-1 ml-2 p-2 rounded-xl font-semibold '>
+                    <div className='flex '>
+                        <div className=' flex  flex-col text-center  '>
+                            <div className='bg-zinc-200 px-12 w-56  my-4 ml-2 p-2 rounded-xl font-semibold '>
                                 <h1 >Reconhecido</h1>
-                                <p className='font-bold text-xl '>Ratoo</p>
+                                <p className='font-bold text-xl pt-1 '>Ratoo</p>
                                 <p className='font-bold text-3xl'>9.0 <span className='font-normal text-lg'>/10</span></p>
                             </div>
-                            <div className='bg-zinc-200 px-12 my-1 ml-2 p-2 rounded-xl font-semibold '>
+                            <div className='bg-zinc-200 px-12 ml-2 p-2 rounded-xl font-semibold '>
                                 <h1 >Atendimento em</h1>
                                 <p className='font-bold text-3xl '>5</p>
                                 <p>segundos</p>
                             </div>
 
                         </div>
-                        <div className=' flex  flex-col  '>
-                            <div className='bg-zinc-200 px-12 my-1 ml-2 p-2 rounded-xl font-semibold '>
+                        <div className=' flex  flex-col text-center  '>
+                            <div className='bg-zinc-200 px-12 w-56 my-4 ml-4 p-2 rounded-xl font-semibold '>
                                 <h1 >Mais de</h1>
-                                <p className='font-bold text-3xl '>3.700</p>
+                                <p className='font-bold text-3xl py-1 '>3.700</p>
                                 <p>agentes</p>
                             </div>
-                            <div className='bg-zinc-200 px-12 my-1 ml-2 p-2 rounded-xl font-semibold '>
+                            <div className='bg-zinc-200 px-12   ml-4 p-2 rounded-xl font-semibold '>
                                 <h1 > Em mais de</h1>
                                 <p className='font-bold text-3xl '>5.500</p>
                                 <p>cidades</p>
